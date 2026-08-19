@@ -76,7 +76,7 @@ fun LabScreen(){
                 modifier = Modifier.height(20.dp)
             )
             Text(
-                text = "Programación de plataformas\nmóviles, Sección 30",
+                text = "Programación de plataformas\nmóviles, Sección 20",
                 textAlign = TextAlign.Center,
                 fontSize = 25.sp,
                 lineHeight = 36.sp
